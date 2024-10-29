@@ -1,0 +1,13 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1730193076333,63,Token Retrieval,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: auth.domain.com,Thread Group 1-1,text,false,,2292,0,1,1,http://auth.domain.com/auth-endpoint,0,0,63
+1730193076438,1670,API Test,404,Not Found,Thread Group 1-1,,false,,122,245,1,1,http://api.test.eagleeyenetworks.com/endpoint,1664,0,1386
+1730193859976,56,Token Retrieval,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: auth.domain.com,Thread Group 1-1,text,false,,2292,0,1,1,http://auth.domain.com/auth-endpoint,0,0,56
+1730193860064,1663,API Test,404,Not Found,Thread Group 1-1,,false,,122,245,1,1,http://api.test.eagleeyenetworks.com/endpoint,1659,0,1383
+1730195691698,1685,API Test,404,Not Found,Thread Group 1-1,,false,,122,256,1,1,http://api.test.eagleeyenetworks.com/oauth2/token,1682,0,1401
+1730196029366,1690,API Test,404,Not Found,Thread Group 1-1,,false,,122,252,1,1,http://api.test.eagleeyenetworks.com/endpoint,1683,0,1400
+1730196390917,1690,API Test,404,Not Found,Thread Group 1-1,,false,,122,252,1,1,http://api.test.eagleeyenetworks.com/endpoint,1685,0,1408
+1730200156037,1158,API Test,401,Unauthorized,Thread Group 1-1,text,false,,637,176,1,1,http://api.c021.eagleeyenetworks.com/api/v3.0/cameras,1154,0,853
+1730200572354,1165,API Test,401,Unauthorized,Thread Group 1-1,text,false,,637,183,1,1,http://api.c021.eagleeyenetworks.com/api/v3.0/cameras,1162,0,861
+1730201117072,1192,API Test,401,Unauthorized,Thread Group 1-1,text,false,,637,183,1,1,http://api.c021.eagleeyenetworks.com/api/v3.0/cameras,1188,0,868
+1730201357052,1168,API Test,401,Unauthorized,Thread Group 1-1,text,false,,637,183,1,1,http://api.c021.eagleeyenetworks.com/api/v3.0/cameras,1164,0,854
+1730203861669,1176,API Test,401,Unauthorized,Thread Group 1-1,text,false,,637,183,1,1,http://api.c021.eagleeyenetworks.com/api/v3.0/cameras,1172,0,864
